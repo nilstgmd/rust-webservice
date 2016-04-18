@@ -1,0 +1,10 @@
+[package]
+name = "my_webservice"
+version = "0.1.0"
+authors = ["Nils Meder <meder@adobe.com>"]
+
+[dependencies]
+iron = "*"
+rustc-serialize = "*"
+router = "*"
+hyper = "*"
